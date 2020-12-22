@@ -1,0 +1,116 @@
+.header{
+    background-color: rgb(82, 80, 80);
+    height: 6cm;
+    padding: 4px;
+    border: 5px;
+    width:50%;
+    position: relative;
+    left: 275px;
+
+}
+.center{
+    background-color: rgb(230, 230, 230);
+    position:relative; 
+    top:50px;
+    right:4.9px;
+    width:97%;
+    padding:2%; 
+}
+.name{
+    background-color: rgb(231, 190, 100);
+    padding: 1% 5% 1% 5%;   
+    border-radius: 10px;
+    font-size: 40px;
+    position: relative;
+    top: 10px;
+    left: 200px;
+
+}
+img {
+    border-radius: 50%;
+    width: 15%;
+    border-color: yellow;
+    border-style: dotted;
+    position: relative;
+    left: 320px;
+    bottom: 50px;
+    top:55px;
+  }
+.body-style{
+    
+    position: relative;
+    left: 300px;
+    font-size: 15px;
+
+}
+.pos{
+  
+    position: relative;
+    right: -50px;
+    bottom:1065px;
+
+
+}
+.head{
+    position: relative;
+    left:350px
+}
+.line{
+    border-right: 3px solid gray;
+    height:970px; 
+    position: relative;
+   left: 20px; 
+   bottom: 1000px;
+   
+}
+.icons{
+    
+        height: 15px;
+        width: 15px;
+        border-radius: 50% ;
+        color:rgb(214, 212, 108);
+        padding: 8.5px;
+        background-color: #3b3939;
+        border-radius: 3px dotted yellow;
+        position: relative;
+        top:50px
+}
+.hline { 
+    width: 765px;
+    position: relative;
+    left:270px;
+    border: 2px solid #9c9b9b;
+
+  
+ }
+ #myinput {
+    background: linear-gradient(to right, rgb(231, 190, 100) 0%, rgb(231, 190, 100) 50%, #fff 50%, #fff 100%);
+    border: solid 1px #bec5c5;
+    border-radius: 8px;
+    height: 3px;
+    width: 140px;
+    -webkit-appearance: none;
+  }
+  #h1{
+      position: relative;
+      left:70px;
+      font-size: medium;
+  }
+  #align-list{
+      position: relative;
+      right:20px;
+  }
+  #edu1{
+      position: relative;
+      bottom: 15px;
+      right:60px
+  }
+  #edu2{
+      position: relative;
+      bottom: 8px;
+  }
+  #edu3{
+      position: relative;
+      bottom: 45px;
+      right:90px;
+  }
